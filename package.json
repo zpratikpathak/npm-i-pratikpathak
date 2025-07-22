@@ -1,0 +1,35 @@
+{
+    "name": "pratikpathak",
+    "version": "1.0.0",
+    "description": "About Pratik Pathak - Microsoft Certified Trainer and Technology Professional",
+    "main": "index.js",
+    "bin": {
+        "pratikpathak": "bin/pratikpathak.js"
+    },
+    "scripts": {
+        "test": "node test.js",
+        "postinstall": "node index.js"
+    },
+    "keywords": [
+        "pratik",
+        "pathak",
+        "microsoft",
+        "trainer",
+        "technology",
+        "professional",
+        "about"
+    ],
+    "author": "Pratik Pathak <me@pratikpathak.com>",
+    "license": "MIT",
+    "homepage": "http://pratikpathak.com/",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pratikpathak/pratikpathak.git"
+    },
+    "engines": {
+        "node": ">=12.0.0"
+    },
+    "bugs": {
+        "url": "https://github.com/pratikpathak/pratikpathak/issues"
+    }
+}
