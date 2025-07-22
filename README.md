@@ -14,7 +14,7 @@ npm install -g pratikpathak
 Or run directly without installation:
 
 ```bash
-npx pratikpathak
+npx pratikpathak -y
 ```
 
 ## Usage
